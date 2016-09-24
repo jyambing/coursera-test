@@ -9,6 +9,7 @@
 * {
   box-sizing: border-box;
   background-color: #00FFFF;
+  padding: 10px;
 }
 h1 {
   margin-bottom: 15px;
@@ -32,14 +33,17 @@ p {
 
 #p1{
   background-color: #87CEFA;
+  margin: 40px;
 }
 
 #p2{
   background-color: #E6E6FA;
+  margin: 40px;
 }
 
 #p3{
   background-color: #90EE90;
+  margin: 40px;
 }
 
 /* Simple Responsive Framework. */
