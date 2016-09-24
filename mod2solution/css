@@ -8,15 +8,10 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
+  background-color: #00FFFF;
 }
 h1 {
   margin-bottom: 15px;
-}
-
-div#container {
-  background-color: #00FFFF;
-  position: relative;
-  top: 60px;
 }
 
 #h2{
