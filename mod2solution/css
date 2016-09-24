@@ -105,9 +105,9 @@ p {
 <h1>Responsive Layout</h1>
 
 <div class="row">
-  <div class="col-lg-1 col-md-2 col-sm-1"><p1>Item 1</p></div>
-  <div class="col-lg-1 col-md-2 col-sm-1"><p2 >Item 2</p></div>
-  <div class="col-lg-1 col-md-3 col-sm-1"><p3>Item 3</p></div>
+  <div class="col-lg-1 col-md-2 col-sm-1 p1"><p>Item 1</p></div>
+  <div class="col-lg-1 col-md-2 col-sm-1 p2"><p>Item 2</p></div>
+  <div class="col-lg-1 col-md-3 col-sm-1 p3"><p>Item 3</p></div>
 </div>
 
 
