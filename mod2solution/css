@@ -104,16 +104,10 @@ p {
 <body>
 <h1>Responsive Layout</h1>
 
-<div id="container">
-  <p id="p1"></p>
-  <p id="p2"></p>
-  <p id="p3"></p>
-</div>
-
 <div class="row">
-  <div class="col-lg-1 col-md-2 col-sm-1"><p p1>Item 1</p></div>
-  <div class="col-lg-1 col-md-2 col-sm-1"><p p2 >Item 2</p></div>
-  <div class="col-lg-1 col-md-3 col-sm-1"><p p3>Item 3</p></div>
+  <div class="col-lg-1 col-md-2 col-sm-1"><p1>Item 1</p></div>
+  <div class="col-lg-1 col-md-2 col-sm-1"><p2 >Item 2</p></div>
+  <div class="col-lg-1 col-md-3 col-sm-1"><p3>Item 3</p></div>
 </div>
 
 
