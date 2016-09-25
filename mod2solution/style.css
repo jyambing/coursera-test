@@ -17,13 +17,17 @@ h1 {
 }
 
 h2{
+  border: .5 black;
   background-color: #F0FFFF;
   position: relative;
   left: 75%;
   margin: 5px;
+  overflow: hidden;
 }
 p {
   border: 1px solid black;
+  margin: 20px;
+  padding: 10px;
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
@@ -36,18 +40,15 @@ p {
 
 #p1{
   background-color: #87CEFA;
- margin: 20px;
 }
 
 #p2{
   background-color: #E6E6FA;
   float: right;
-  margin: 20px;
 }
 
 #p3{
   background-color: #90EE90;
-  margin: 20px;
 }
 
 /* Simple Responsive Framework. */
