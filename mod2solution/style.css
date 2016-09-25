@@ -17,7 +17,7 @@ h1 {
 }
 
 h2{
-  @media (min-width: 75%) and (max-width: 100%){
+  @media (max-width: 100%){
   border: .5 black;
   background-color: #F0FFFF;
   position: relative;
