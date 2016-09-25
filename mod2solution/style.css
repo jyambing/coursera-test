@@ -41,17 +41,14 @@ p {
 
 #p1{
   background-color: #87CEFA;
-  float: left;
 }
 
 #p2{
   background-color: #E6E6FA;
- float: right;
 }
 
 #p3{
   background-color: #90EE90;
-  float:left;
   margin-top: 20px;
 }
 
@@ -63,6 +60,7 @@ width: 100%;
 /********** Large devices only **********/
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3{
+     float: left;
     border: 1px solid black;
     margin: 10px;
   }
@@ -80,6 +78,7 @@ width: 100%;
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3 {
+     float: right;
     border: 1px solid black;
     margin: 10px;
   }
@@ -98,6 +97,7 @@ width: 100%;
 /********** Small devices only **********/
 @media (max-width: 767px) {
   .col-sm-1, .col-sm-2, .col-sm-3{
+     float: left;
     border: 1px solid black;
     margin: 10px;
   }
