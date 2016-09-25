@@ -9,8 +9,8 @@
 * {
   box-sizing: border-box;
   background-color: #00FFFF;
-  padding: 10px;
-  margin: 50px;
+ /* padding: 10px;
+  margin: 50px;*/
 }
 h1 {
   text-align: center;
@@ -20,6 +20,7 @@ h1 {
 section {
   
   border: 1px solid black;
+  margin: 5px;
   background-color: #F0FFFF;
   position: relative;
   text-align: right;
