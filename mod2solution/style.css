@@ -41,15 +41,17 @@ p {
 
 #p1{
   background-color: #87CEFA;
+  float: left;
 }
 
 #p2{
   background-color: #E6E6FA;
- 
+ float: right;
 }
 
 #p3{
   background-color: #90EE90;
+  float:left;
   margin-top: 20px;
 }
 
