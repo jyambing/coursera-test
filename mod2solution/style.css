@@ -36,17 +36,17 @@ p {
 
 #p1{
   background-color: #87CEFA;
- 
+ margin: 20px;
 }
 
 #p2{
   background-color: #E6E6FA;
-  
+  margin: 20px;
 }
 
 #p3{
   background-color: #90EE90;
-  
+  margin: 20px;
 }
 
 /* Simple Responsive Framework. */
