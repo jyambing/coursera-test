@@ -52,9 +52,6 @@ p {
 }
 
 /* Simple Responsive Framework. */
-.row {
-  width: 100%;
-}
 
 /********** Large devices only **********/
 @media (min-width: 992px) {
