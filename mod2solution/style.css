@@ -20,7 +20,7 @@ h1 {
 section {
   
   border: 1px solid black;
-  margin: 5px;
+  padding: 5px;
   background-color: #F0FFFF;
   position: relative;
   text-align: right;
