@@ -21,14 +21,12 @@ section {
   float: right;
   border: 1px solid black;
   margin: 15px;
-  padding: 5px;
+  background-color: #F0FFFF;
 }
 
 
 p {
-  border: 1px solid black;
   padding: 10px;
-  background-color: #F0FFFF;
   width: 90%;
   height: 200px;
   margin-right: auto;
