@@ -20,7 +20,7 @@ h1 {
 section {
   float: right;
   border: 1px solid black;
-  margin: 40px;
+  margin: 20px;
 }
 
 
@@ -38,7 +38,7 @@ p {
 }
 
 #chicken {
-  float: right:
+  float: right;
   background-color: #87CEFA;
   text-align: center;
   border: 1px solid black;
