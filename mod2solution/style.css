@@ -18,10 +18,11 @@ h1 {
 }
 
 section {
-  border: 1px solid black;
+  border: 5px solid black;
   padding: 5px;
   background-color: #F0FFFF;
   position: absolute;
+  left: 90%
   text-align: right;
   font-weight: bold;
   font-size: 18px;
@@ -39,19 +40,20 @@ p {
   overflow: auto;
 }
 
-#chicken{
+#chicken {
   background-color: #87CEFA;
 }
 
-#beef{
+#beef {
   background-color: #E6E6FA;
 }
 
-#sushi{
+#sushi {
   background-color: #90EE90;
-  margin-top: 20px;
 }
-
+#p3 {
+   margin-top: 20px;
+}
 /* Simple Responsive Framework. */
 .row {
 width: 100%;
@@ -105,7 +107,6 @@ width: 100%;
 /********** Medium devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-1, .col-md-2, .col-md-3 {
-     float: left;
    border: 1px solid black;
     margin: 10px;
   }
@@ -149,7 +150,6 @@ width: 100%;
 /********** Small devices only **********/
 @media (max-width: 767px) {
   .col-sm-1, .col-sm-2, .col-sm-3{
-     float: left;
    border: 1px solid black;
     margin: 10px;
   }
