@@ -20,7 +20,7 @@ h1 {
 section {
   float: right;
   border: 1px solid black;
-  margin: 20px;
+  margin: 15px;
 }
 
 
@@ -42,15 +42,20 @@ p {
   background-color: #87CEFA;
   text-align: center;
   border: 1px solid black;
-  
 }
 
 #beef {
+  float: right;
   background-color: #E6E6FA;
+  text-align: center;
+  border: 1px solid black;
 }
 
 #sushi {
+  float: right:
   background-color: #90EE90;
+  text-align: center;
+  border: 1px solid black;
 }
 #p3 {
    margin-top: 20px;
