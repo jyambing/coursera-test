@@ -18,10 +18,9 @@ h1 {
 }
 
 section {
-  border: 5px solid black;
+  border: 2px solid black;
   padding: 5px;
-  background-color: #F0FFFF;
-  position: absolute;
+  position: relative;
   left: 90%
   text-align: right;
   font-weight: bold;
