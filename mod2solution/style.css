@@ -21,6 +21,7 @@ section {
   float: right;
   border: 1px solid black;
   margin: 15px;
+  padding: 5px;
 }
 
 
@@ -42,6 +43,8 @@ p {
   background-color: #87CEFA;
   text-align: center;
   border: 1px solid black;
+  padding: 5px;
+  font-size: 150%;
 }
 
 #beef {
@@ -49,13 +52,17 @@ p {
   background-color: #E6E6FA;
   text-align: center;
   border: 1px solid black;
+  padding: 5px;
+  font-size: 150%;
 }
 
 #sushi {
-  float: right:
+  float: right;
   background-color: #90EE90;
   text-align: center;
   border: 1px solid black;
+  padding: 5px;
+  font-size: 150%;
 }
 #p3 {
    margin-top: 20px;
