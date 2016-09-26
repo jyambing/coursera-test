@@ -17,19 +17,11 @@ h1 {
   margin-bottom: 15px;
 }
 
-/*section {
+section {
   float: right;
-  background-color: pink;
   border: 1px solid black;
-  text-align: center;
-  padding: 5px;
-  width: 150px;
-  font-size: 125% ;
-  font-family: Helvetica, Arial, serif; 
-  margin-right: -16px;
-  margin-top: -16px;
 }
-*/
+
 
 p {
   border: 1px solid black;
